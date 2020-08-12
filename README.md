@@ -1,3 +1,5 @@
+Deployed: [Here on Netlify](https://distracted-turing-0cbd82.netlify.app/)
+
 # Mintbean's PhaserJS Template
 
 ## Getting Started
